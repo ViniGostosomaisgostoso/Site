@@ -93,7 +93,7 @@
     .dispositivos_lista {
       display: flex;
       justify-content: center;
-      list-style-type: nones;
+      list-style-type: none;
       margin: 5em 0;
   }
 
